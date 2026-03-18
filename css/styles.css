@@ -1,41 +1,38 @@
-.top {
-    color:#2e2f42;
-    background-color:#ffffff;
-}
 .logo {
     text-transform:uppercase;
     font-style:bold;
     font-size:18px;
     line-height:1.16;
     letter-spacing:3%;
+    color:#2e2f42;
     position-area:156px by 24px;
 }
 .logo-text {
     color:#4d5ae5;
 }
 .menu {
+    color: #2e2f42;
+}
+.menu:hover {
+    color:#404bbf;
+}
+.menu:focus {
+    color:#404bbf;
+}
+.menu-list {
     font-size:16px;
     font-weight:medium;
     line-height:1.5;
     letter-spacing:2%;
-}
-.menu:hover {
-    color:#404bbf;
 }
 .contacts {
     font-size:16px;
     font-weight:regular;
     line-height:1.5;
     letter-spacing:2%;
-    color:#434455;
-}
-.contacts:hover {
-        color:#404bbf;
-}
-.contacts:focus {
-        color:#404bbf;
 }
 .hero {
+    color:#ffffff;
     background-color:#2e2f42;
 }
 .hero .title {
@@ -51,6 +48,7 @@
     line-height:1.5;
     letter-spacing:4%;
     cursor:pointer;
+    color:#ffffff;
     background-color:#4d5ae5;
 }
 .button:hover {
