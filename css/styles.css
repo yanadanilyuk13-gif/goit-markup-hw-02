@@ -1,0 +1,97 @@
+header {
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: left;
+    letter-spacing: 3%;
+    color: #2e2f42;
+    background-color: #ffffff;
+}
+.logo {
+    font-style: bold;
+    font-size: 18px;
+    line-height: 21px;
+    position-area:156px by 24px;
+}
+.logo-text {
+    color: #4d5ae5;
+}
+.menu {
+    text-indent: 216px 24px;
+    line-height: medium;
+    letter-spacing: 16%;}
+.contacts {
+    line-height: regular;
+    letter-spacing: 16%;
+    color: #434455;
+}
+.hero {
+    background-color: #2e2f42;
+}
+.hero .title {
+    font-size: 123px;
+    line-height: bold;
+    letter-spacing: 56%;
+    text-align: center;
+    color: #ffffff;
+    position-area: 496px by 120px;
+}.button {
+    padding: 32px 16px;
+    align-items: top, left;
+    corner-radius: 4px;
+    color:#ffffff;
+    background-color: #4d5ae5;
+    margin-top: 40px;
+    padding: 20px 40px;
+    font-family: Roboto,sans-serif;
+    line-height: medium;
+    letter-spacing: 16%;
+    color: #ffffff;
+    background-color: #4d5ae5;
+    border: none;
+    border-radius: 4px;
+}
+.button:hover {
+    color: #404bbf;
+}
+body {
+    font-family: Roboto, sans-serif;
+    line-height: medium;
+    letter-spacing: 20%;
+    align-items: left, top;
+    position-area: 0px by 672px;
+    background-color: #ffffff;
+}
+h2 {
+    line-height: bold;
+    letter-spacing: 36%;
+    text-align: center;
+    color: #2e2f42;
+}
+h3 {
+    line-height: medium;
+    letter-spacing: 20%;
+    text-align: left;
+    color: #2e2f42;
+}
+p {
+    line-height: regular;
+    letter-spacing: 16%;
+    text-align: left;
+    color: #434455;
+}
+ul { list-style-type: none;}
+.team {
+    background-color: #f4f4fd;
+}
+.team-border {
+        width: 264;
+        height: 380;2 2px solid #ffffff;box-shadow: #2e2f420 0px 2px 1px;
+    }
+.portfolio-border {
+        width: 360;
+        height: 420; 1px solid #e7e9fc;
+    }
+    .footer {
+        font-family: Roboto, sans-serif;
+        letter-spacing: 16%;
+        color: #f4f4fd;background-color: #2e2f42;
+    }
