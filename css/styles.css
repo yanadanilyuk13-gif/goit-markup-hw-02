@@ -72,7 +72,7 @@ a {
     text-align:center;
     color:#2e2f42;
 }
-.title-3 {
+h3 {
     font-size:20px;
     font-weight:500;
     line-height:1.2;
@@ -83,8 +83,8 @@ a {
 .team {
     background-color:#f4f4fd;
 }
-.team .title-3,
-.team p {
+.title-3, 
+.text {
     text-align: center;
 }
 p {
@@ -92,7 +92,6 @@ p {
     line-height:1.5;
     letter-spacing:0.02em;
     text-align: left;
-    justify-content: center;
     color:#434455;
 }
 ul { 
@@ -115,5 +114,4 @@ footer {
 }
 .buttom {
     color: #f4f4fd;
-    justify-content:center;
 }
