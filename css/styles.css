@@ -80,13 +80,6 @@ a {
     text-align:left;
     color:#2e2f42;
 }
-.team {
-    background-color:#f4f4fd;
-}
-.team-image h3,
-.text {
-    text-align:center;
-}
 p {
     font-size:16px;
     line-height:1.5;
@@ -97,10 +90,20 @@ p {
 ul { 
     list-style-type:none;
 }
+.team {
+    background-color:#f4f4fd;
+}
 .team-image {
-    text-align: left;
     background-color:#ffffff;
 
+}
+.team-image img {
+    display:block;
+    margin:0;
+}
+.team-image h3,
+.team-image p {
+    text-align:center;
 }
 .logo-text-1 {
     color:#f4f4fd;
@@ -112,6 +115,6 @@ footer {
     color:#f4f4fd;
     background-color: #2e2f42;
 }
-.buttom {
+.text {
     color: #f4f4fd;
 }
