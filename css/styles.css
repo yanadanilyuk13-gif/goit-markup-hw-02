@@ -25,7 +25,7 @@
     font-size:16px;
     line-height:1.5;
     letter-spacing:0.02em;
-    color:#2e2f42;
+    color:#434455;
 }
 .contacts:hover, 
 .contacts:focus {
@@ -54,7 +54,7 @@ h1 {
     background-color:#404bbf;
 }
 body {
-    font-family: "Roboto", "Raleway", sans-serif;
+    font-family:"Roboto", sans-serif;
     line-height:1.5;
     letter-spacing:0.02em;
     color:#434455;
@@ -70,19 +70,28 @@ h2 {
     text-align:center;
     color:#2e2f42;
 }
-h3 {
+.title-3 {
     font-size:20px;
     font-weight:500;
     line-height:1.2;
     letter-spacing:0.02em;
     text-align:left;
+    justify-content:center;
     color:#2e2f42;
+}
+.team .title-3 {
+    text-align: center;
+}
+.team .text {
+    text-align: center;
 }
 p {
     font-size:16px;
     line-height:1.5;
     letter-spacing:0.02em;
-    text-align:left;
+    text-align: left;
+    justify-content:center;
+
     color:#434455;
 }
 ul { 
@@ -98,12 +107,13 @@ li {
     color:#f4f4fd;
 }
 footer {
-        font-size:16px;
-        line-height:1.5;
-        letter-spacing:0.02em;
-        color:#f4f4fd;
-        background-color: #2e2f42;
+    font-size:16px;
+    line-height:1.5;
+    letter-spacing:0.02em;
+    color:#f4f4fd;
+    background-color: #2e2f42;
 }
 .buttom {
     color: #f4f4fd;
+    justify-content:center;
 }
