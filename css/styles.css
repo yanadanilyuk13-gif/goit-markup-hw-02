@@ -3,7 +3,7 @@
     text-transform:uppercase;
     font-weight:700;
     font-size:18px;
-    line-height:1.16;
+    line-height:1.17;
     letter-spacing:0.03em;
     color:#2e2f42;
 }
@@ -34,7 +34,7 @@
 .hero {
     background-color:#2e2f42;
 }
-h1 {
+.hero-title {
     font-size:56px;
     line-height:1.07;
     letter-spacing:0.02em;
@@ -63,7 +63,7 @@ body {
 a {
     text-decoration:none;
 }
-h2 {
+.title-2 {
     font-size:36px;
     line-height:1.11;
     letter-spacing:0.02em;
@@ -80,9 +80,9 @@ h2 {
     color:#2e2f42;
 }
 .team .title-3 {
-    text-align: center;
+    text-align:center;
 }
-.team .text {
+.text {
     text-align: center;
 }
 p {
@@ -97,11 +97,12 @@ p {
 ul { 
     list-style-type:none;
 }
-li {
-    background-color: #ffffff;
-}
 .team {
     background-color:#f4f4fd;
+}
+.team-image {
+    background-color:#ffffff;
+
 }
 .logo-text-1 {
     color:#f4f4fd;
