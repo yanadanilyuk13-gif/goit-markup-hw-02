@@ -80,6 +80,14 @@ a {
     text-align:left;
     color:#2e2f42;
 }
+.title-4 {
+    font-size:20px;
+    font-weight:500;
+    line-height:1.2;
+    letter-spacing:0.02em;
+    text-align:center;
+    color:#2e2f42;
+}
 .team {
     background-color:#f4f4fd;
 }
